@@ -25,7 +25,7 @@ dependencies {
     }
 
     constraints {
-        implementation 'org.apache.tomcat:tomcat-catalina:11.0.2'
+        implementation 'org.apache.tomcat:tomcat-catalina:11.0.8'
     }
 
     implementation 'org.springframework.boot:spring-boot-starter-web'
